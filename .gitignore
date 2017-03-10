@@ -54,3 +54,8 @@ use/missing
 html/
 massif.out.*
 gmon.out
+/buck-out/
+/.buckd/
+/buckaroo/
+.buckconfig.local
+BUCKAROO_DEPS
